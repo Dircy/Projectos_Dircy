@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934791390159",
+    "project_id": "soulcare-1ca84",
+    "storage_bucket": "soulcare-1ca84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934791390159:android:9501798f2e0f1bd6eca8ba",
+        "android_client_info": {
+          "package_name": "com.example.soulcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCixPxR5BPwDJdBL1PZRNNh9YuPkS8hdC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
